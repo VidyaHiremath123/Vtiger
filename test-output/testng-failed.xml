@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="vtiger_GenericUtilities.RetryAnalyzerPractice">
+      <class name="vtiger.Practice.DproviderPractice">
         <methods>
-          <include name="sample"/>
+          <include name="getdatafromdprovider"/>
         </methods>
-      </class> <!-- vtiger_GenericUtilities.RetryAnalyzerPractice -->
+      </class> <!-- vtiger.Practice.DproviderPractice -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
