@@ -29,6 +29,7 @@ public class OrganizationsPage {
 
     public void clickOnCreateOrganizationLookUpImg()
       {
+    	
 	    CreateOrgLookUpImg.click();
      }
 	
